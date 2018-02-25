@@ -1,0 +1,5 @@
+# Ignore directories
+ignorefolder/
+
+# Exclude .gitignore.txt from being selected by wildcard
+!.gitignore
